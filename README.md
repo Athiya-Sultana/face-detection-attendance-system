@@ -4,6 +4,6 @@ Do visit my blog for better explanations: https://machinelearningprojects.net/fa
 
 ![Face Recognition Based Attendance System](ss.png)
 
-For Installation Use the Commands: pip install flask
-export FLASK_APP=pythoncodefilename.py
+For Installation Use the Commands: pip install flask &
+export FLASK_APP=pythoncodefilename.py &
 flask run
